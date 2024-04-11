@@ -56,3 +56,39 @@
     color: white;
     padding: 3px;
 }
+
+.sec-content-1{
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
+
+.sec-content-1 h1 {
+    padding: 0 0 10px 0;
+    font-size: 40px;
+    font-family: cinzel;
+}
+
+.sec-content-1 p {
+    padding: 0 0 20px 50px;
+    font-size: 20px;
+    font-family: josefin sans;
+    color: grey;
+}
+
+.btn-2{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+
+.btn-2 button{
+    background-color: black;
+    border-radius: 6px;
+    padding: 8px;
+    width: 100px;
+}
+
+.btn-2 a{
+    color: white;
+}

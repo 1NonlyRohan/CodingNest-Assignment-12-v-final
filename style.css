@@ -60,13 +60,12 @@
 .sec-content-1{
     position: absolute;
     top: 150px;
-    left: 500px;
+    left: 450px;
 }
 
 .sec-content-1 h1 {
     padding: 0 0 10px 0;
-    font-size: 40px;
-    font-family: cinzel;
+    font-size: 50px;
 }
 
 .sec-content-1 p {
@@ -91,4 +90,43 @@
 
 .btn-2 a{
     color: white;
+}
+
+.section-2 {
+    position: absolute;
+    top: 380px;
+    left: 50px;
+}
+
+.section-2 h1 {
+    font-size: 50px;
+    padding: 0 0 20px 0;
+}
+
+.section-2 p {
+    padding: 0px 750px 20px 0px;
+    color: grey;
+    font-size: 30px;
+}
+
+.section-2 p{
+    color: grey;
+}
+
+.btn-3 button {
+    background-color: black;
+    border-radius: 3px;
+    padding: 3px;
+    width: 100px;
+}
+
+.btn-3 a{
+    color: white;
+}
+
+.Poster-1 img {
+    width: 400px;
+    left: 800px;
+    position: absolute;
+    top: 0px;
 }

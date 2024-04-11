@@ -312,3 +312,33 @@
     color: white;
 }
 
+.foot a h1 {
+    position: absolute;
+    top: 2010px;
+    left: 120px;
+    color: black;
+    font-size: 20px;
+}
+
+.social-links {
+    position: absolute;
+    top: 2250px;
+    left: 100px;
+}
+
+.social-links .fa-xl {
+    font-size: 1.8em;
+    margin-left: 15px;
+    color: black;
+}
+
+.social-links .fa-xl:hover {
+    transition: all 0.3s;
+    color: darkgray;
+}
+
+.topic-page {
+    position: absolute;
+    top: 2005px;
+    left: 900px;
+}

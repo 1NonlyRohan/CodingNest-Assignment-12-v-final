@@ -140,7 +140,7 @@
 
 .section-3-content {
     position: absolute;
-    top: 750px;
+    top: 720px;
     left: 700px;
 }
 
@@ -168,4 +168,101 @@
 
 .btn-4 a{
     color: white;
+}
+
+.section-4 h1 {
+    position: absolute;
+    top: 1050px;
+    left: 40px;
+    font-size: 40px;
+}
+
+.heading-1 h2 {
+    font-size: 22px;
+    padding: 0 0 20px 0;
+    position: absolute;
+    top: 1130px;
+    left: 40px;
+}
+
+.heading-1 p {
+    width: 400px;
+    padding: 0 0 20px 0;
+    font-size: 20px;
+    color: grey;
+    position: absolute;
+    top: 1180px;
+    left: 40px;
+}
+
+.heading-2 {
+    position: absolute;
+    top: 0px;
+    left: 750px;
+}
+
+.heading-2 h2 {
+    font-size: 22px;
+    padding: 0 0 20px 0;
+    position: absolute;
+    top: 1130px;
+    left: 40px;
+}
+
+.heading-2 p {
+    width: 400px;
+    padding: 0 0 20px 0;
+    font-size: 20px;
+    color: grey;
+    position: absolute;
+    top: 1180px;
+    left: 40px;
+}
+
+.heading-3 {
+    position: absolute;
+    top: 250px;
+    left: 0px;
+}
+
+.heading-3 h2 {
+    font-size: 22px;
+    padding: 0 0 20px 0;
+    position: absolute;
+    top: 1130px;
+    left: 40px;
+}
+
+.heading-3 p {
+    width: 400px;
+    padding: 0 0 20px 0;
+    font-size: 20px;
+    color: grey;
+    position: absolute;
+    top: 1180px;
+    left: 40px;
+}
+
+.heading-4 {
+    position: absolute;
+    top: 250px;
+    left: 750px;
+}
+
+.heading-4 h2 {
+    font-size: 22px;
+    padding: 0 0 20px 0;
+    position: absolute;
+    top: 1130px;
+    left: 40px;
+}
+
+.heading-4 p {
+    width: 400px;
+    padding: 0 0 20px 0;
+    font-size: 20px;
+    color: grey;
+    position: absolute;
+    top: 1180px;
+    left: 40px;
 }

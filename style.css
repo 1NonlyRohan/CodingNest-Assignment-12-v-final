@@ -130,3 +130,42 @@
     position: absolute;
     top: 0px;
 }
+
+.Poster-2 img {
+    width: 400px;
+    position: absolute;
+    top: 700px;
+    left: 40px;
+}
+
+.section-3-content {
+    position: absolute;
+    top: 750px;
+    left: 700px;
+}
+
+.section-3-content  h1 {
+    font-size: 50px;
+    padding: 0 0 20px 0;
+}
+
+.section-3-content  p {
+    padding: 0 0 20px 0;
+    color: grey;
+    font-size: 30px;
+}
+
+.section-3-content  p{
+    color: grey;
+}
+
+.btn-4 button {
+    background-color: black;
+    border-radius: 3px;
+    padding: 3px;
+    width: 100px;
+}
+
+.btn-4 a{
+    color: white;
+}
